@@ -1,0 +1,8 @@
+{
+  "name": "Echelon Digital Transitions",
+  "description": "Drop in departure and arrival frames, generate seamless cinematic scene transitions with presets, prompt improvements, and specialized cinematographic terminology using Omni Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
